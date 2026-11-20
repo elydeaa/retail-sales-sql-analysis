@@ -94,7 +94,7 @@ ORDER BY sales_month ASC;
 ---
 
 ## 📄 Presentation & Certification
-* **Full Slide Deck:** View the complete visual presentation in [`presentation_project/Basic_SQL_Portfolio-Powered_by_Ely_Dea_Theresia.pdf`](presentation Project/Basic_SQL_Portfolio-Powered_by_Ely_Dea_Theresia.pdf).
+* **Full Slide Deck:** View the complete visual presentation in [`presentation/Basic_SQL_Portfolio-Powered_by_Ely_Dea_Theresia.pdf`](presentation Project/Basic_SQL_Portfolio-Powered_by_Ely_Dea_Theresia.pdf).
 * **Certification:** Awarded by **MySkill** for completing *SQL Introduction for Data Analysis* (July 13, 2026).
 
 ---
